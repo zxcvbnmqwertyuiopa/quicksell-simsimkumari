@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quicksell-simsimkumari/static/css/main.089d6a5c.css",
+    "main.js": "/quicksell-simsimkumari/static/js/main.17b37809.js",
+    "static/js/453.b995ab79.chunk.js": "/quicksell-simsimkumari/static/js/453.b995ab79.chunk.js",
+    "index.html": "/quicksell-simsimkumari/index.html",
+    "main.089d6a5c.css.map": "/quicksell-simsimkumari/static/css/main.089d6a5c.css.map",
+    "main.17b37809.js.map": "/quicksell-simsimkumari/static/js/main.17b37809.js.map",
+    "453.b995ab79.chunk.js.map": "/quicksell-simsimkumari/static/js/453.b995ab79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089d6a5c.css",
+    "static/js/main.17b37809.js"
+  ]
+}
